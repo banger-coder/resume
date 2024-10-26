@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+#hobby {
+    font-style: italic;
+}
+
+body {
+font-family: Josefin Sans;
+font-size: 17px;
+font-weight: normal;
+background-color: white;
+}
+#hobby {
+    font-style: italic;
+}
+
+.chat{
+    font-style: italic;
+}
+
+h3 {
+    background-color: darkgrey;
+    font-family: Roboto;
+    color: white;   
+}
+
+#social {
+color: darkgrey;
+}
+
+.tb2 {
+    background-color: white;
+}
+
+.tb1 {
+    background-color: darkgrey;
+}
+
+div {
+margin-bottom: 10px;
+background-color: antiquewhite;
+padding: 10px;
+}
+
